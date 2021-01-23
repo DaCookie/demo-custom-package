@@ -1,0 +1,17 @@
+{
+    "name": "MuffinDev.CustomPackage.Editor",
+    "references": [
+        "GUID:73a51697e66e52e43a4506acfa7deceb"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

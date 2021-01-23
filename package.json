@@ -1,0 +1,14 @@
+{
+	"name": "com.muffindev.custompackage",
+	"version": "0.0.1",
+
+	"displayName": "Demo Custom Package",
+	"description": "C'est oui",
+	"unity": "2018.4",
+	"keywords": [ "", "" ],
+	"author": {
+		"name": "",
+		"email": "",
+		"url": ""
+	}
+}
